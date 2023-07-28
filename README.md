@@ -16,36 +16,27 @@ To run the Reel Play movie recommender website on your local machine, follow the
 
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/your-username/reel-play.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd reel-play
 Install dependencies for both the server and the client:
 
-bash
-Copy code
 cd server
 npm install
-bash
-Copy code
+
 cd ../client
 npm install
+
 Set up the environment variables:
 
 Create a .env file in the server directory and add the following variables:
-makefile
-Copy code
 PORT=3001
 TMDB_API_KEY=your_tmdb_api_key
 MONGODB_URI=your_mongodb_uri
+
 Start the server and client concurrently:
 
-sql
-Copy code
 npm start
 Open your web browser and navigate to http://localhost:3000 to access the Reel Play movie recommender website.
 
