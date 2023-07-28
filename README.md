@@ -38,6 +38,7 @@ MONGODB_URI=your_mongodb_uri
 Start the server and client concurrently:
 
 npm start
+
 Open your web browser and navigate to http://localhost:3000 to access the Reel Play movie recommender website.
 
 Note: Before running the project, ensure you have obtained an API key from TMDB (https://www.themoviedb.org/documentation/api) and replaced your_tmdb_api_key with your actual API key in the .env file.
