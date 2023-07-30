@@ -48,6 +48,15 @@ Also, ensure you have MongoDB installed and set up your MONGODB_URI in the .env 
 Feedback and Contributions
 Your feedback and contributions to the Reel Play project are highly appreciated. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on GitHub.
 
+# Results 
+![image](https://github.com/SouravRay17/ReelPlay/assets/83729666/c1c78b02-af1b-40bc-8666-a84fcedfa228)
+![image](https://github.com/SouravRay17/ReelPlay/assets/83729666/f3555da0-91e9-4dc9-a995-cb8d0d673e9a)
+![image](https://github.com/SouravRay17/ReelPlay/assets/83729666/3f2ccbfd-461b-4f47-9d2b-4bb9efe2b0f2)
+![image](https://github.com/SouravRay17/ReelPlay/assets/83729666/bb8dd1dc-629b-4b71-8b98-1bc5d7dd0969)
+
+
+
+
 Enjoy using Reel Play and discovering exciting movies tailored to your preferences!
 
 Note: This README template assumes that you have set up the project structure accordingly. Please modify the instructions as needed based on the actual directory structure and any other specific configurations you may have in your project.
